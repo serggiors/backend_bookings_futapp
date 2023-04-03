@@ -29,5 +29,5 @@ bookings (reservas)
 Roles PreCargados
 Admin, Superadmin, User
 
-Login > /api/users/login al ingresar genera un token que le va a permitir ingresar a todas las rutas de la api.
+Login > /api/users/login al ingresar genera un token que le va a permitir ingresar a todas las rutas de la api.<br>
 Registro > /api/users/create al registrar codifica la password.
